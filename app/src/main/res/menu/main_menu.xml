@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+
+    <item android:id="@+id/action_1"
+        android:title="내 명함"
+        android:icon="@drawable/action1" />
+    <item android:id="@+id/action_2"
+        android:title="받은 명함"
+        android:icon="@drawable/action2" />
+    <item android:id="@+id/action_3"
+        android:title="더보기"
+        android:icon="@drawable/action3" />
+
+</menu>
